@@ -1,0 +1,26 @@
+*{
+    margin: 0em;
+}
+header{
+    position: relative;
+    background-color: #f0f8ff;
+    color: #1e2a35;
+    padding: 1em;
+    position: fixed;
+    width: 100%;
+}
+
+aside{
+    background-color: #1e2a35;
+    color: white;
+    margin: 0em;
+    width: 20%;
+    height: 100vh;
+    display: inline-block;
+}
+
+section{
+    width:70%;
+    display: inline-bloc;
+}
+

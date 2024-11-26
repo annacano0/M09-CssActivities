@@ -1,0 +1,19 @@
+.chat-container{
+    width: 15em;
+    height: 10em;
+    overflow: scroll;
+}
+.user1-message, .user2-message{
+    padding: 0.5em;
+    margin: 0.25em;
+    border-radius: 0.5em;
+}
+
+.user1-message{
+    background-color: rgb(255, 215, 252);
+}
+
+.user2-message{
+    background-color: rgb(165, 242, 255);
+    text-align: right;
+}

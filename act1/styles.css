@@ -1,0 +1,7 @@
+.main-container{
+    background-color: aliceblue;
+    margin: 2em;
+    padding: 2em;
+    border-radius: 1em;
+    box-sizing: border-box;
+}
