@@ -23,6 +23,12 @@ body {
     margin-bottom: 1em;
 }
 
+.profile-info {
+    height: 11em;
+    overflow: hidden;
+    margin-bottom: 1em;
+}
+
 .profile-info .name {
     font-size: 1.5em;
 }
@@ -34,6 +40,7 @@ body {
     border: none;
     border-radius: 5px;
     font-size: 1em;
+    margin: 0.5em;
 }
 
 .follow-btn:hover {
