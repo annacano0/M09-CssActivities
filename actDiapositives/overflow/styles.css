@@ -1,0 +1,27 @@
+.contenidor {
+height: 200px;
+width: 200px;
+border: 10px solid black;
+margin-bottom: 20px;
+padding: 10px;
+}
+
+.overflow-visible {
+overflow: visible;
+background-color: #f8f9fa;
+}
+
+.overflow-hidden {
+overflow: hidden;
+background-color: #e9ecef;
+}
+
+.overflow-scroll {
+overflow: scroll;
+background-color: #dee2e6;
+}
+
+.overflow-auto {
+overflow: auto;
+background-color: #ced4da;
+}
